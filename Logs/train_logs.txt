@@ -1,0 +1,1351 @@
+2022-05-18/14:11:39		Reading training file
+2022-05-18/17:01:04		Entered the readDataset method of the Preprocessor class
+2022-05-18/17:01:04		Reading training data is a success
+2022-05-18/17:01:04		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/17:01:04		Finding missing values is a success
+2022-05-18/17:18:35		Entered the readDataset method of the Preprocessor class
+2022-05-18/17:18:35		Reading training data is a success
+2022-05-18/17:18:35		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/17:18:35		Finding missing values is a success
+2022-05-18/17:18:35		Entered the fillMissingValues method of the Preprocessor class
+2022-05-18/17:18:35		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/17:18:35		Finding missing values is a success
+2022-05-18/17:18:35		Filling missing values is a success
+2022-05-18/19:35:49		Entered the readDataset method of the Preprocessor class
+2022-05-18/19:35:50		Reading training data is a success
+2022-05-18/19:35:50		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/19:35:50		Finding missing values is a success
+2022-05-18/19:35:50		Entered the fillMissingValues method of the Preprocessor class
+2022-05-18/19:35:50		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/19:35:50		Finding missing values is a success
+2022-05-18/19:35:50		There are no null values, thus filling missing values is a success
+2022-05-18/19:35:50		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/19:35:50		Finding outliers is a success
+2022-05-18/19:35:50		Entered the replacingOutliers method of the Preprocessor class
+2022-05-18/19:35:50		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/19:35:50		Finding outliers is a success
+2022-05-18/19:43:49		Entered the readDataset method of the Preprocessor class
+2022-05-18/19:43:50		Reading training data is a success
+2022-05-18/19:43:50		Saving the plot of target data in Plots folder is a success
+2022-05-18/19:43:56		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/19:43:56		Finding missing values is a success
+2022-05-18/19:44:01		Entered the fillMissingValues method of the Preprocessor class
+2022-05-18/19:44:01		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/19:44:01		Finding missing values is a success
+2022-05-18/19:44:01		There are no null values, thus filling missing values is a success
+2022-05-18/19:44:05		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/19:44:28		Finding outliers is a success
+2022-05-18/19:44:54		Entered the replacingOutliers method of the Preprocessor class
+2022-05-18/19:46:12		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/19:46:12		Finding outliers is a success
+2022-05-18/19:52:18		Entered the readDataset method of the Preprocessor class
+2022-05-18/19:52:19		Reading training data is a success
+2022-05-18/19:52:19		Saving the plot of target data in Plots folder is a success
+2022-05-18/19:52:19		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/19:52:19		Finding missing values is a success
+2022-05-18/19:52:19		Entered the fillMissingValues method of the Preprocessor class
+2022-05-18/19:52:19		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/19:52:19		Finding missing values is a success
+2022-05-18/19:52:19		There are no null values, thus filling missing values is a success
+2022-05-18/19:52:19		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/19:52:19		Finding outliers is a success
+2022-05-18/19:52:19		Entered the replacingOutliers method of the Preprocessor class
+2022-05-18/19:52:19		Saving the plot of target data after replacing outliers in Plots folder is a success
+2022-05-18/19:52:19		Replacing outliers is a success
+2022-05-18/20:01:46		Entered the readDataset method of the Preprocessor class
+2022-05-18/20:01:46		Reading training data is a success
+2022-05-18/20:01:46		Saving the plot of target data in Plots folder is a success
+2022-05-18/20:01:46		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/20:01:46		Finding missing values is a success
+2022-05-18/20:01:46		Entered the fillMissingValues method of the Preprocessor class
+2022-05-18/20:01:46		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/20:01:46		Finding missing values is a success
+2022-05-18/20:01:46		There are no null values, thus filling missing values is a success
+2022-05-18/20:01:46		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/20:01:46		Finding outliers is a success
+2022-05-18/20:01:46		Entered the replacingOutliers method of the Preprocessor class
+2022-05-18/20:01:46		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/20:01:46		Finding outliers is a success
+2022-05-18/20:01:46		Saving the plot of target data after replacing outliers is a success
+2022-05-18/20:01:46		There are no outliers, thus replacing outliers is a success
+2022-05-18/20:18:22		Entered the readDataset method of the Preprocessor class
+2022-05-18/20:18:23		Reading training data is a success
+2022-05-18/20:18:23		Saving the plot of target data in Plots folder is a success
+2022-05-18/20:18:23		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/20:18:23		Finding missing values is a success
+2022-05-18/20:18:23		Entered the fillMissingValues method of the Preprocessor class
+2022-05-18/20:18:23		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/20:18:23		Finding missing values is a success
+2022-05-18/20:18:23		There are no null values, thus filling missing values is a success
+2022-05-18/20:18:23		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/20:18:23		Finding outliers is a success
+2022-05-18/20:18:34		Entered the replacingOutliers method of the Preprocessor class
+2022-05-18/20:18:43		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/20:18:43		Finding outliers is a success
+2022-05-18/20:18:46		There are no outliers, thus replacing outliers is a success
+2022-05-18/20:22:07		Entered the readDataset method of the Preprocessor class
+2022-05-18/20:22:07		Reading training data is a success
+2022-05-18/20:22:07		Saving the plot of target data in Plots folder is a success
+2022-05-18/20:22:07		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/20:22:07		Finding missing values is a success
+2022-05-18/20:22:07		Entered the fillMissingValues method of the Preprocessor class
+2022-05-18/20:22:07		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/20:22:07		Finding missing values is a success
+2022-05-18/20:22:07		There are no null values, thus filling missing values is a success
+2022-05-18/20:22:07		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/20:22:07		Finding outliers is a success
+2022-05-18/20:22:14		Entered the replacingOutliers method of the Preprocessor class
+2022-05-18/20:22:18		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/20:22:18		Finding outliers is a success
+2022-05-18/20:22:20		There are no outliers, thus replacing outliers is a success
+2022-05-18/20:22:50		Saving the plot of target data after replacing outliers is a success
+2022-05-18/20:36:18		Entered the readDataset method of the Preprocessor class
+2022-05-18/20:36:18		Reading training data is a success
+2022-05-18/20:36:18		Saving the plot of target data in Plots folder is a success
+2022-05-18/20:36:18		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/20:36:18		Finding missing values is a success
+2022-05-18/20:36:18		Entered the fillMissingValues method of the Preprocessor class
+2022-05-18/20:36:18		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/20:36:18		Finding missing values is a success
+2022-05-18/20:36:18		There are no null values, thus filling missing values is a success
+2022-05-18/20:36:18		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/20:36:18		Finding outliers is a success
+2022-05-18/20:36:18		Entered the replacingOutliers method of the Preprocessor class
+2022-05-18/20:36:18		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/20:36:18		Finding outliers is a success
+2022-05-18/20:36:18		Saving the plot of target data after replacing outliers is a success
+2022-05-18/20:36:18		There are no outliers, thus replacing outliers is a success
+2022-05-18/20:36:18		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/20:36:18		Creating New features is a success
+2022-05-18/20:44:36		Entered the readDataset method of the Preprocessor class
+2022-05-18/20:44:36		Reading training data is a success
+2022-05-18/20:44:36		Saving the plot of target data in Plots folder is a success
+2022-05-18/20:44:36		Entered the readDataset method of the Preprocessor class
+2022-05-18/20:44:37		Reading training data is a success
+2022-05-18/20:44:37		Saving the plot of target data in Plots folder is a success
+2022-05-18/20:44:37		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/20:44:37		Finding missing values is a success
+2022-05-18/20:44:37		Entered the fillMissingValues method of the Preprocessor class
+2022-05-18/20:44:37		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/20:44:37		Finding missing values is a success
+2022-05-18/20:44:37		There are no null values, thus filling missing values is a success
+2022-05-18/20:44:37		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/20:44:37		Finding outliers is a success
+2022-05-18/20:44:37		Entered the replacingOutliers method of the Preprocessor class
+2022-05-18/20:44:37		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/20:44:37		Finding outliers is a success
+2022-05-18/20:44:37		Saving the plot of target data after replacing outliers is a success
+2022-05-18/20:44:37		There are no outliers, thus replacing outliers is a success
+2022-05-18/20:44:37		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/20:44:37		Creating New features is a success
+2022-05-18/20:44:37		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/20:44:37		Creating New features is a success
+2022-05-18/20:57:26		Entered the readDataset method of the Preprocessor class
+2022-05-18/20:57:26		Reading data is a success
+2022-05-18/20:57:26		Entered the readDataset method of the Preprocessor class
+2022-05-18/20:57:26		Reading data is a success
+2022-05-18/20:57:26		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/20:57:26		Finding missing values is a success
+2022-05-18/20:57:26		Entered the fillMissingValues method of the Preprocessor class
+2022-05-18/20:57:26		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/20:57:26		Finding missing values is a success
+2022-05-18/20:57:26		There are no null values, thus filling missing values is a success
+2022-05-18/20:57:26		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/20:57:26		Finding outliers is a success
+2022-05-18/20:57:26		Entered the replacingOutliers method of the Preprocessor class
+2022-05-18/20:57:26		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/20:57:26		Finding outliers is a success
+2022-05-18/20:57:26		Saving the plot of target data after replacing outliers is a success
+2022-05-18/20:57:26		There are no outliers, thus replacing outliers is a success
+2022-05-18/20:57:26		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/20:57:26		Creating New features is a success
+2022-05-18/20:57:26		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/20:57:26		Creating New features is a success
+2022-05-18/20:58:18		Entered the readDataset method of the Preprocessor class
+2022-05-18/20:58:18		Reading data is a success
+2022-05-18/20:58:18		Entered the readDataset method of the Preprocessor class
+2022-05-18/20:58:18		Reading data is a success
+2022-05-18/20:58:18		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/20:58:18		Finding missing values is a success
+2022-05-18/20:58:18		Entered the fillMissingValues method of the Preprocessor class
+2022-05-18/20:58:18		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/20:58:18		Finding missing values is a success
+2022-05-18/20:58:18		There are no null values, thus filling missing values is a success
+2022-05-18/20:58:18		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/20:58:18		Finding outliers is a success
+2022-05-18/20:58:18		Entered the replacingOutliers method of the Preprocessor class
+2022-05-18/20:58:18		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/20:58:18		Finding outliers is a success
+2022-05-18/20:58:19		Saving the plot of target data after replacing outliers is a success
+2022-05-18/20:58:19		There are no outliers, thus replacing outliers is a success
+2022-05-18/20:58:19		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/20:58:19		Creating New features is a success
+2022-05-18/20:58:19		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/20:58:19		Creating New features is a success
+2022-05-18/21:01:14		Entered the readDataset method of the Preprocessor class
+2022-05-18/21:01:14		Reading data is a success
+2022-05-18/21:01:14		Entered the readDataset method of the Preprocessor class
+2022-05-18/21:01:14		Reading data is a success
+2022-05-18/21:01:14		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/21:01:14		Finding missing values is a success
+2022-05-18/21:01:14		Entered the fillMissingValues method of the Preprocessor class
+2022-05-18/21:01:14		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/21:01:14		Finding missing values is a success
+2022-05-18/21:01:14		There are no null values, thus filling missing values is a success
+2022-05-18/21:01:14		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/21:01:14		Finding outliers is a success
+2022-05-18/21:01:14		Entered the replacingOutliers method of the Preprocessor class
+2022-05-18/21:01:14		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/21:01:14		Finding outliers is a success
+2022-05-18/21:01:14		Saving the plot of target data after replacing outliers is a success
+2022-05-18/21:01:14		There are no outliers, thus replacing outliers is a success
+2022-05-18/21:01:14		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/21:01:14		Creating New features is a success
+2022-05-18/21:01:14		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/21:01:14		Creating New features is a success
+2022-05-18/21:01:41		Entered the readDataset method of the Preprocessor class
+2022-05-18/21:01:41		Reading data is a success
+2022-05-18/21:01:41		Entered the readDataset method of the Preprocessor class
+2022-05-18/21:01:41		Reading data is a success
+2022-05-18/21:01:41		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/21:01:41		Finding missing values is a success
+2022-05-18/21:01:41		Entered the fillMissingValues method of the Preprocessor class
+2022-05-18/21:01:41		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/21:01:41		Finding missing values is a success
+2022-05-18/21:01:41		There are no null values, thus filling missing values is a success
+2022-05-18/21:01:41		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/21:01:41		Finding outliers is a success
+2022-05-18/21:01:41		Entered the replacingOutliers method of the Preprocessor class
+2022-05-18/21:01:41		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/21:01:41		Finding outliers is a success
+2022-05-18/21:01:41		Saving the plot of target data after replacing outliers is a success
+2022-05-18/21:01:41		There are no outliers, thus replacing outliers is a success
+2022-05-18/21:01:41		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/21:01:41		Creating New features is a success
+2022-05-18/21:01:41		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/21:01:41		Creating New features is a success
+2022-05-18/21:14:20		Entered the readDataset method of the Preprocessor class
+2022-05-18/21:14:20		Reading data is a success
+2022-05-18/21:14:20		Entered the readDataset method of the Preprocessor class
+2022-05-18/21:14:20		Reading data is a success
+2022-05-18/21:14:20		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/21:14:20		Finding missing values is a success
+2022-05-18/21:14:20		Entered the fillMissingValues method of the Preprocessor class
+2022-05-18/21:14:20		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/21:14:20		Finding missing values is a success
+2022-05-18/21:14:20		There are no null values, thus filling missing values is a success
+2022-05-18/21:14:20		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/21:14:20		Finding outliers is a success
+2022-05-18/21:14:20		Entered the replacingOutliers method of the Preprocessor class
+2022-05-18/21:14:20		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/21:14:20		Finding outliers is a success
+2022-05-18/21:14:21		Saving the plot of target data after replacing outliers is a success
+2022-05-18/21:14:21		There are no outliers, thus replacing outliers is a success
+2022-05-18/21:14:21		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/21:14:21		Creating New features is a success
+2022-05-18/21:14:21		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/21:14:21		Creating New features is a success
+2022-05-18/21:14:21		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-18/21:50:17		Entered the readDataset method of the Preprocessor class
+2022-05-18/21:50:17		Reading data is a success
+2022-05-18/21:50:17		Entered the readDataset method of the Preprocessor class
+2022-05-18/21:50:17		Reading data is a success
+2022-05-18/21:50:17		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/21:50:17		Finding missing values is a success
+2022-05-18/21:50:17		Entered the fillMissingValues method of the Preprocessor class
+2022-05-18/21:50:17		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/21:50:17		Finding missing values is a success
+2022-05-18/21:50:17		There are no null values, thus filling missing values is a success
+2022-05-18/21:50:17		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/21:50:17		Finding outliers is a success
+2022-05-18/21:50:17		Entered the replacingOutliers method of the Preprocessor class
+2022-05-18/21:50:17		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/21:50:17		Finding outliers is a success
+2022-05-18/21:50:18		Saving the plot of target data after replacing outliers is a success
+2022-05-18/21:50:18		There are no outliers, thus replacing outliers is a success
+2022-05-18/21:50:18		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/21:50:18		Creating New features is a success
+2022-05-18/21:50:18		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/21:50:18		Creating New features is a success
+2022-05-18/21:50:18		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-18/21:50:18		Entered the trainModel method of the Preprocessor class
+2022-05-18/21:50:19		Training different models is a success
+2022-05-18/21:50:20		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-18/21:50:20		Saving the best model
+2022-05-18/22:05:24		Entered the readDataset method of the Preprocessor class
+2022-05-18/22:05:24		Reading data is a success
+2022-05-18/22:05:24		Entered the readDataset method of the Preprocessor class
+2022-05-18/22:05:24		Reading data is a success
+2022-05-18/22:05:24		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/22:05:24		Finding missing values is a success
+2022-05-18/22:05:24		Entered the fillMissingValues method of the Preprocessor class
+2022-05-18/22:05:24		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/22:05:24		Finding missing values is a success
+2022-05-18/22:05:24		There are no null values, thus filling missing values is a success
+2022-05-18/22:05:24		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/22:05:24		Finding outliers is a success
+2022-05-18/22:05:24		Entered the replacingOutliers method of the Preprocessor class
+2022-05-18/22:05:24		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/22:05:24		Finding outliers is a success
+2022-05-18/22:05:24		Saving the plot of target data after replacing outliers is a success
+2022-05-18/22:05:24		There are no outliers, thus replacing outliers is a success
+2022-05-18/22:05:24		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/22:05:24		Creating New features is a success
+2022-05-18/22:05:24		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/22:05:24		Creating New features is a success
+2022-05-18/22:05:24		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-18/22:05:24		Entered the trainModel method of the Preprocessor class
+2022-05-18/22:05:25		Training different models is a success
+2022-05-18/22:05:26		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-18/22:05:26		Saving the best model
+2022-05-18/22:05:26		Entered the predictingTestData method of the Preprocessor class
+2022-05-18/23:33:32		Entered the readDataset method of the Preprocessor class
+2022-05-18/23:33:32		Reading data is a success
+2022-05-18/23:33:32		Entered the readDataset method of the Preprocessor class
+2022-05-18/23:33:32		Reading data is a success
+2022-05-18/23:33:32		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/23:33:32		Finding missing values is a success
+2022-05-18/23:33:32		Entered the fillMissingValues method of the Preprocessor class
+2022-05-18/23:33:32		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/23:33:32		Finding missing values is a success
+2022-05-18/23:33:32		There are no null values, thus filling missing values is a success
+2022-05-18/23:33:32		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/23:33:32		Finding outliers is a success
+2022-05-18/23:33:32		Entered the replacingOutliers method of the Preprocessor class
+2022-05-18/23:33:32		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/23:33:32		Finding outliers is a success
+2022-05-18/23:33:33		Saving the plot of target data after replacing outliers is a success
+2022-05-18/23:33:33		There are no outliers, thus replacing outliers is a success
+2022-05-18/23:33:33		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/23:33:33		Creating New features is a success
+2022-05-18/23:33:33		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/23:33:33		Creating New features is a success
+2022-05-18/23:33:33		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-18/23:33:33		Entered the trainModel method of the Preprocessor class
+2022-05-18/23:33:34		Training different models is a success
+2022-05-18/23:33:34		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-18/23:33:34		Saving the best model
+2022-05-18/23:33:34		Entered the predictingTestData method of the Preprocessor class
+2022-05-18/23:38:12		Entered the readDataset method of the Preprocessor class
+2022-05-18/23:38:12		Reading data is a success
+2022-05-18/23:38:12		Entered the readDataset method of the Preprocessor class
+2022-05-18/23:38:12		Reading data is a success
+2022-05-18/23:38:12		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/23:38:12		Finding missing values is a success
+2022-05-18/23:38:12		Entered the fillMissingValues method of the Preprocessor class
+2022-05-18/23:38:12		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/23:38:12		Finding missing values is a success
+2022-05-18/23:38:12		There are no null values, thus filling missing values is a success
+2022-05-18/23:38:12		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/23:38:12		Finding outliers is a success
+2022-05-18/23:38:12		Entered the replacingOutliers method of the Preprocessor class
+2022-05-18/23:38:12		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/23:38:12		Finding outliers is a success
+2022-05-18/23:38:13		Saving the plot of target data after replacing outliers is a success
+2022-05-18/23:38:13		There are no outliers, thus replacing outliers is a success
+2022-05-18/23:38:13		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/23:38:13		Creating New features is a success
+2022-05-18/23:38:13		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/23:38:13		Creating New features is a success
+2022-05-18/23:38:13		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-18/23:38:13		Entered the trainModel method of the Preprocessor class
+2022-05-18/23:38:14		Training different models is a success
+2022-05-18/23:38:14		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-18/23:38:15		Saving the best model
+2022-05-18/23:38:15		Entered the predictingTestData method of the Preprocessor class
+2022-05-18/23:42:50		Entered the readDataset method of the Preprocessor class
+2022-05-18/23:42:50		Reading data is a success
+2022-05-18/23:42:50		Entered the readDataset method of the Preprocessor class
+2022-05-18/23:42:50		Reading data is a success
+2022-05-18/23:42:50		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/23:42:50		Finding missing values is a success
+2022-05-18/23:42:50		Entered the fillMissingValues method of the Preprocessor class
+2022-05-18/23:42:50		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/23:42:50		Finding missing values is a success
+2022-05-18/23:42:50		There are no null values, thus filling missing values is a success
+2022-05-18/23:42:50		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/23:42:50		Finding outliers is a success
+2022-05-18/23:42:50		Entered the replacingOutliers method of the Preprocessor class
+2022-05-18/23:42:50		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/23:42:50		Finding outliers is a success
+2022-05-18/23:42:50		Saving the plot of target data after replacing outliers is a success
+2022-05-18/23:42:50		There are no outliers, thus replacing outliers is a success
+2022-05-18/23:42:50		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/23:42:50		Creating New features is a success
+2022-05-18/23:42:50		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/23:42:50		Creating New features is a success
+2022-05-18/23:42:50		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-18/23:42:50		Entered the trainModel method of the Preprocessor class
+2022-05-18/23:42:52		Training different models is a success
+2022-05-18/23:42:52		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-18/23:42:52		Saving the best model
+2022-05-18/23:42:52		Entered the predictingTestData method of the Preprocessor class
+2022-05-18/23:46:02		Entered the readDataset method of the Preprocessor class
+2022-05-18/23:46:02		Reading data is a success
+2022-05-18/23:46:02		Entered the readDataset method of the Preprocessor class
+2022-05-18/23:46:02		Reading data is a success
+2022-05-18/23:46:02		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/23:46:02		Finding missing values is a success
+2022-05-18/23:46:02		Entered the fillMissingValues method of the Preprocessor class
+2022-05-18/23:46:02		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/23:46:02		Finding missing values is a success
+2022-05-18/23:46:02		There are no null values, thus filling missing values is a success
+2022-05-18/23:46:02		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/23:46:02		Finding outliers is a success
+2022-05-18/23:46:02		Entered the replacingOutliers method of the Preprocessor class
+2022-05-18/23:46:02		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/23:46:02		Finding outliers is a success
+2022-05-18/23:46:03		Saving the plot of target data after replacing outliers is a success
+2022-05-18/23:46:03		There are no outliers, thus replacing outliers is a success
+2022-05-18/23:46:03		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/23:46:03		Creating New features is a success
+2022-05-18/23:46:03		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/23:46:03		Creating New features is a success
+2022-05-18/23:46:03		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-18/23:46:03		Entered the trainModel method of the Preprocessor class
+2022-05-18/23:46:04		Training different models is a success
+2022-05-18/23:46:04		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-18/23:46:05		Saving the best model
+2022-05-18/23:46:05		Entered the predictingTestData method of the Preprocessor class
+2022-05-18/23:47:13		Entered the readDataset method of the Preprocessor class
+2022-05-18/23:47:13		Reading data is a success
+2022-05-18/23:47:13		Entered the readDataset method of the Preprocessor class
+2022-05-18/23:47:13		Reading data is a success
+2022-05-18/23:47:13		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/23:47:13		Finding missing values is a success
+2022-05-18/23:47:13		Entered the fillMissingValues method of the Preprocessor class
+2022-05-18/23:47:13		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/23:47:13		Finding missing values is a success
+2022-05-18/23:47:13		There are no null values, thus filling missing values is a success
+2022-05-18/23:47:13		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/23:47:13		Finding outliers is a success
+2022-05-18/23:47:13		Entered the replacingOutliers method of the Preprocessor class
+2022-05-18/23:47:13		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/23:47:13		Finding outliers is a success
+2022-05-18/23:47:13		Saving the plot of target data after replacing outliers is a success
+2022-05-18/23:47:13		There are no outliers, thus replacing outliers is a success
+2022-05-18/23:47:13		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/23:47:14		Creating New features is a success
+2022-05-18/23:47:14		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/23:47:14		Creating New features is a success
+2022-05-18/23:47:14		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-18/23:47:14		Entered the trainModel method of the Preprocessor class
+2022-05-18/23:47:15		Training different models is a success
+2022-05-18/23:47:15		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-18/23:47:15		Saving the best model
+2022-05-18/23:47:15		Entered the predictingTestData method of the Preprocessor class
+2022-05-18/23:50:02		Entered the readDataset method of the Preprocessor class
+2022-05-18/23:50:02		Reading data is a success
+2022-05-18/23:50:02		Entered the readDataset method of the Preprocessor class
+2022-05-18/23:50:02		Reading data is a success
+2022-05-18/23:50:02		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/23:50:02		Finding missing values is a success
+2022-05-18/23:50:02		Entered the fillMissingValues method of the Preprocessor class
+2022-05-18/23:50:02		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/23:50:02		Finding missing values is a success
+2022-05-18/23:50:02		There are no null values, thus filling missing values is a success
+2022-05-18/23:50:02		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/23:50:02		Finding outliers is a success
+2022-05-18/23:50:02		Entered the replacingOutliers method of the Preprocessor class
+2022-05-18/23:50:02		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/23:50:02		Finding outliers is a success
+2022-05-18/23:50:02		Saving the plot of target data after replacing outliers is a success
+2022-05-18/23:50:02		There are no outliers, thus replacing outliers is a success
+2022-05-18/23:50:02		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/23:50:02		Creating New features is a success
+2022-05-18/23:50:02		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/23:50:02		Creating New features is a success
+2022-05-18/23:50:02		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-18/23:50:02		Entered the trainModel method of the Preprocessor class
+2022-05-18/23:50:03		Training different models is a success
+2022-05-18/23:50:04		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-18/23:50:04		Saving the best model
+2022-05-18/23:50:04		Entered the predictingTestData method of the Preprocessor class
+2022-05-18/23:53:49		Entered the readDataset method of the Preprocessor class
+2022-05-18/23:53:49		Reading data is a success
+2022-05-18/23:53:49		Entered the readDataset method of the Preprocessor class
+2022-05-18/23:53:49		Reading data is a success
+2022-05-18/23:53:49		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/23:53:49		Finding missing values is a success
+2022-05-18/23:53:49		Entered the fillMissingValues method of the Preprocessor class
+2022-05-18/23:53:49		Entered the checkNullvalues method of the Preprocessor class
+2022-05-18/23:53:49		Finding missing values is a success
+2022-05-18/23:53:49		There are no null values, thus filling missing values is a success
+2022-05-18/23:53:49		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/23:53:49		Finding outliers is a success
+2022-05-18/23:53:49		Entered the replacingOutliers method of the Preprocessor class
+2022-05-18/23:53:49		Entered the checkOutliers method of the Preprocessor class
+2022-05-18/23:53:49		Finding outliers is a success
+2022-05-18/23:53:50		Saving the plot of target data after replacing outliers is a success
+2022-05-18/23:53:50		There are no outliers, thus replacing outliers is a success
+2022-05-18/23:53:50		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/23:53:50		Creating New features is a success
+2022-05-18/23:53:50		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-18/23:53:50		Creating New features is a success
+2022-05-18/23:53:50		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-18/23:53:50		Entered the trainModel method of the Preprocessor class
+2022-05-18/23:53:51		Training different models is a success
+2022-05-18/23:53:52		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-18/23:53:52		Saving the best model
+2022-05-18/23:53:52		Entered the predictingTestData method of the Preprocessor class
+2022-05-19/11:50:00		Entered the readDataset method of the Preprocessor class
+2022-05-19/11:50:00		Reading data is a success
+2022-05-19/11:50:00		Entered the readDataset method of the Preprocessor class
+2022-05-19/11:50:00		Reading data is a success
+2022-05-19/11:50:00		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/11:50:00		Finding missing values is a success
+2022-05-19/11:50:00		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/11:50:00		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/11:50:00		Finding missing values is a success
+2022-05-19/11:50:00		There are no null values, thus filling missing values is a success
+2022-05-19/11:50:00		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/11:50:00		Finding outliers is a success
+2022-05-19/11:50:00		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/11:50:00		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/11:50:00		Finding outliers is a success
+2022-05-19/11:50:01		Saving the plot of target data after replacing outliers is a success
+2022-05-19/11:50:01		There are no outliers, thus replacing outliers is a success
+2022-05-19/11:50:01		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/11:50:01		Creating New features is a success
+2022-05-19/11:50:01		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/11:50:01		Creating New features is a success
+2022-05-19/11:50:01		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/11:50:01		Entered the trainModel method of the Preprocessor class
+2022-05-19/11:50:02		Training different models is a success
+2022-05-19/11:50:03		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/11:50:03		Saving the best model
+2022-05-19/11:50:03		Entered the predictingTestData method of the Preprocessor class
+2022-05-19/13:01:41		Entered the readDataset method of the Preprocessor class
+2022-05-19/13:01:41		Reading data is a success
+2022-05-19/13:01:43		Entered the readDataset method of the Preprocessor class
+2022-05-19/13:01:43		Reading data is a success
+2022-05-19/13:01:44		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/13:01:44		Finding missing values is a success
+2022-05-19/13:01:45		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/13:01:45		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/13:01:45		Finding missing values is a success
+2022-05-19/13:01:45		There are no null values, thus filling missing values is a success
+2022-05-19/13:01:46		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/13:01:46		Finding outliers is a success
+2022-05-19/13:01:48		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/13:01:48		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/13:01:48		Finding outliers is a success
+2022-05-19/13:01:48		Saving the plot of target data after replacing outliers is a success
+2022-05-19/13:01:48		There are no outliers, thus replacing outliers is a success
+2022-05-19/13:01:50		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/13:01:50		Creating New features is a success
+2022-05-19/13:01:50		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/13:01:50		Creating New features is a success
+2022-05-19/13:01:53		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/13:01:56		Entered the trainModel method of the Preprocessor class
+2022-05-19/13:01:59		Training different models is a success
+2022-05-19/13:02:00		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/13:02:00		Saving the best model
+2022-05-19/13:02:03		Entered the predictingTestData method of the Preprocessor class
+2022-05-19/13:18:54		Entered the readDataset method of the Preprocessor class
+2022-05-19/13:18:54		Reading data is a success
+2022-05-19/13:18:54		Entered the readDataset method of the Preprocessor class
+2022-05-19/13:18:54		Reading data is a success
+2022-05-19/13:18:54		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/13:18:54		Finding missing values is a success
+2022-05-19/13:18:54		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/13:18:54		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/13:18:54		Finding missing values is a success
+2022-05-19/13:18:54		There are no null values, thus filling missing values is a success
+2022-05-19/13:18:54		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/13:18:54		Finding outliers is a success
+2022-05-19/13:18:54		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/13:18:54		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/13:18:54		Finding outliers is a success
+2022-05-19/13:18:55		Saving the plot of target data after replacing outliers is a success
+2022-05-19/13:18:55		There are no outliers, thus replacing outliers is a success
+2022-05-19/13:18:55		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/13:18:55		Creating New features is a success
+2022-05-19/13:18:55		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/13:18:55		Creating New features is a success
+2022-05-19/13:18:55		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/13:18:55		Entered the trainModel method of the Preprocessor class
+2022-05-19/13:18:57		Training different models is a success
+2022-05-19/13:18:58		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/13:18:58		Saving the best model
+2022-05-19/13:18:58		Entered the predictingTestData method of the Preprocessor class
+2022-05-19/14:29:25		Entered the readDataset method of the Preprocessor class
+2022-05-19/14:29:25		Reading data is a success
+2022-05-19/14:29:25		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/14:29:25		Finding missing values is a success
+2022-05-19/14:29:25		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/14:29:25		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/14:29:25		Finding missing values is a success
+2022-05-19/14:29:25		There are no null values, thus filling missing values is a success
+2022-05-19/14:29:25		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/14:29:25		Finding outliers is a success
+2022-05-19/14:29:25		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/14:29:25		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/14:29:25		Finding outliers is a success
+2022-05-19/14:29:26		Saving the plot of target data after replacing outliers is a success
+2022-05-19/14:29:26		There are no outliers, thus replacing outliers is a success
+2022-05-19/14:29:26		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/14:29:26		Creating New features is a success
+2022-05-19/14:29:26		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/14:29:26		Entered the trainModel method of the Preprocessor class
+2022-05-19/14:29:27		Training different models is a success
+2022-05-19/14:29:27		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/14:29:27		Saving the best model
+2022-05-19/14:29:27		Entered the PreparingForPrediction method of the Preprocessor class
+2022-05-19/14:29:27		Entered the predictingSingleDate method of the Preprocessor class
+2022-05-19/14:34:48		Entered the readDataset method of the Preprocessor class
+2022-05-19/14:34:48		Reading data is a success
+2022-05-19/14:34:48		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/14:34:48		Finding missing values is a success
+2022-05-19/14:34:48		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/14:34:48		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/14:34:48		Finding missing values is a success
+2022-05-19/14:34:48		There are no null values, thus filling missing values is a success
+2022-05-19/14:34:48		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/14:34:48		Finding outliers is a success
+2022-05-19/14:34:48		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/14:34:48		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/14:34:48		Finding outliers is a success
+2022-05-19/14:34:49		Saving the plot of target data after replacing outliers is a success
+2022-05-19/14:34:49		There are no outliers, thus replacing outliers is a success
+2022-05-19/14:34:49		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/14:34:49		Creating New features is a success
+2022-05-19/14:34:49		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/14:34:49		Entered the trainModel method of the Preprocessor class
+2022-05-19/14:34:51		Training different models is a success
+2022-05-19/14:34:51		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/14:34:52		Saving the best model
+2022-05-19/14:34:52		Entered the PreparingForPrediction method of the Preprocessor class
+2022-05-19/14:34:52		Entered the predictingSingleDate method of the Preprocessor class
+2022-05-19/15:01:16		Entered the readDataset method of the Preprocessor class
+2022-05-19/15:01:16		Reading data is a success
+2022-05-19/15:01:16		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/15:01:16		Finding missing values is a success
+2022-05-19/15:01:16		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/15:01:16		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/15:01:16		Finding missing values is a success
+2022-05-19/15:01:16		There are no null values, thus filling missing values is a success
+2022-05-19/15:01:16		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/15:01:16		Finding outliers is a success
+2022-05-19/15:01:16		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/15:01:16		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/15:01:16		Finding outliers is a success
+2022-05-19/15:01:17		Saving the plot of target data after replacing outliers is a success
+2022-05-19/15:01:17		There are no outliers, thus replacing outliers is a success
+2022-05-19/15:01:17		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/15:01:17		Creating New features is a success
+2022-05-19/15:01:17		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/15:01:17		Entered the trainModel method of the Preprocessor class
+2022-05-19/15:01:20		Training different models is a success
+2022-05-19/15:01:21		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/15:01:21		Saving the best model
+2022-05-19/15:01:21		Entered the PreparingForPrediction method of the Preprocessor class
+2022-05-19/15:01:21		Entered the predictingSingleDate method of the Preprocessor class
+2022-05-19/16:43:51		Entered the readDataset method of the Preprocessor class
+2022-05-19/16:43:51		Reading data is a success
+2022-05-19/16:43:51		Entered the readDataset method of the Preprocessor class
+2022-05-19/16:43:51		Reading data is a success
+2022-05-19/16:43:51		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/16:43:51		Finding missing values is a success
+2022-05-19/16:43:51		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/16:43:51		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/16:43:51		Finding missing values is a success
+2022-05-19/16:43:51		There are no null values, thus filling missing values is a success
+2022-05-19/16:43:51		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/16:43:51		Finding outliers is a success
+2022-05-19/16:43:51		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/16:43:51		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/16:43:51		Finding outliers is a success
+2022-05-19/16:43:52		Saving the plot of target data after replacing outliers is a success
+2022-05-19/16:43:52		There are no outliers, thus replacing outliers is a success
+2022-05-19/16:43:52		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/16:43:52		Creating New features is a success
+2022-05-19/16:43:52		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/16:43:52		Creating New features is a success
+2022-05-19/16:43:52		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/16:43:52		Entered the trainModel method of the Preprocessor class
+2022-05-19/16:43:53		Training different models is a success
+2022-05-19/16:43:53		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/16:43:53		Saving the best model
+2022-05-19/16:43:53		Entered the predictingTestData method of the Preprocessor class
+2022-05-19/16:45:33		Entered the readDataset method of the Preprocessor class
+2022-05-19/16:45:33		Reading data is a success
+2022-05-19/16:45:33		Entered the readDataset method of the Preprocessor class
+2022-05-19/16:45:33		Reading data is a success
+2022-05-19/16:45:33		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/16:45:33		Finding missing values is a success
+2022-05-19/16:45:33		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/16:45:33		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/16:45:33		Finding missing values is a success
+2022-05-19/16:45:33		There are no null values, thus filling missing values is a success
+2022-05-19/16:45:33		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/16:45:33		Finding outliers is a success
+2022-05-19/16:45:33		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/16:45:33		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/16:45:33		Finding outliers is a success
+2022-05-19/16:45:33		Saving the plot of target data after replacing outliers is a success
+2022-05-19/16:45:33		There are no outliers, thus replacing outliers is a success
+2022-05-19/16:45:34		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/16:45:34		Creating New features is a success
+2022-05-19/16:45:34		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/16:45:34		Creating New features is a success
+2022-05-19/16:45:34		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/16:45:34		Entered the trainModel method of the Preprocessor class
+2022-05-19/16:45:35		Training different models is a success
+2022-05-19/16:45:35		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/16:45:35		Saving the best model
+2022-05-19/16:45:35		Entered the predictingTestData method of the Preprocessor class
+2022-05-19/16:46:21		Entered the readDataset method of the Preprocessor class
+2022-05-19/16:46:21		Reading data is a success
+2022-05-19/16:46:21		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/16:46:21		Finding missing values is a success
+2022-05-19/16:46:21		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/16:46:21		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/16:46:21		Finding missing values is a success
+2022-05-19/16:46:21		There are no null values, thus filling missing values is a success
+2022-05-19/16:46:21		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/16:46:21		Finding outliers is a success
+2022-05-19/16:46:21		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/16:46:21		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/16:46:21		Finding outliers is a success
+2022-05-19/16:46:21		Saving the plot of target data after replacing outliers is a success
+2022-05-19/16:46:21		There are no outliers, thus replacing outliers is a success
+2022-05-19/16:46:21		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/16:46:21		Creating New features is a success
+2022-05-19/16:46:21		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/16:46:21		Entered the trainModel method of the Preprocessor class
+2022-05-19/16:46:22		Training different models is a success
+2022-05-19/16:46:23		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/16:46:23		Saving the best model
+2022-05-19/16:46:23		Entered the PreparingForPrediction method of the Preprocessor class
+2022-05-19/16:46:23		Entered the predictingSingleDate method of the Preprocessor class
+2022-05-19/16:46:55		Entered the readDataset method of the Preprocessor class
+2022-05-19/16:46:55		Reading data is a success
+2022-05-19/16:46:55		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/16:46:55		Finding missing values is a success
+2022-05-19/16:46:55		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/16:46:55		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/16:46:55		Finding missing values is a success
+2022-05-19/16:46:55		There are no null values, thus filling missing values is a success
+2022-05-19/16:46:55		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/16:46:55		Finding outliers is a success
+2022-05-19/16:46:55		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/16:46:55		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/16:46:55		Finding outliers is a success
+2022-05-19/16:46:55		Saving the plot of target data after replacing outliers is a success
+2022-05-19/16:46:55		There are no outliers, thus replacing outliers is a success
+2022-05-19/16:46:55		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/16:46:55		Creating New features is a success
+2022-05-19/16:46:55		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/16:46:55		Entered the trainModel method of the Preprocessor class
+2022-05-19/16:46:56		Training different models is a success
+2022-05-19/16:46:57		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/16:46:57		Saving the best model
+2022-05-19/16:46:57		Entered the PreparingForPrediction method of the Preprocessor class
+2022-05-19/16:46:57		Entered the predictingSingleDate method of the Preprocessor class
+2022-05-19/16:47:18		Entered the readDataset method of the Preprocessor class
+2022-05-19/16:47:18		Reading data is a success
+2022-05-19/16:47:18		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/16:47:18		Finding missing values is a success
+2022-05-19/16:47:18		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/16:47:18		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/16:47:18		Finding missing values is a success
+2022-05-19/16:47:18		There are no null values, thus filling missing values is a success
+2022-05-19/16:47:18		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/16:47:18		Finding outliers is a success
+2022-05-19/16:47:18		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/16:47:18		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/16:47:18		Finding outliers is a success
+2022-05-19/16:47:18		Saving the plot of target data after replacing outliers is a success
+2022-05-19/16:47:18		There are no outliers, thus replacing outliers is a success
+2022-05-19/16:47:18		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/16:47:18		Creating New features is a success
+2022-05-19/16:47:18		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/16:47:18		Entered the trainModel method of the Preprocessor class
+2022-05-19/16:47:19		Training different models is a success
+2022-05-19/16:47:19		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/16:47:19		Saving the best model
+2022-05-19/16:47:19		Entered the PreparingForPrediction method of the Preprocessor class
+2022-05-19/16:47:19		Entered the predictingSingleDate method of the Preprocessor class
+2022-05-19/16:48:39		Entered the readDataset method of the Preprocessor class
+2022-05-19/16:48:39		Reading data is a success
+2022-05-19/16:48:39		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/16:48:39		Finding missing values is a success
+2022-05-19/16:48:39		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/16:48:39		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/16:48:39		Finding missing values is a success
+2022-05-19/16:48:39		There are no null values, thus filling missing values is a success
+2022-05-19/16:48:39		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/16:48:39		Finding outliers is a success
+2022-05-19/16:48:39		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/16:48:39		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/16:48:39		Finding outliers is a success
+2022-05-19/16:48:39		Saving the plot of target data after replacing outliers is a success
+2022-05-19/16:48:39		There are no outliers, thus replacing outliers is a success
+2022-05-19/16:48:39		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/16:48:39		Creating New features is a success
+2022-05-19/16:48:39		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/16:48:39		Entered the trainModel method of the Preprocessor class
+2022-05-19/16:48:40		Training different models is a success
+2022-05-19/16:48:41		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/16:48:41		Saving the best model
+2022-05-19/16:48:41		Entered the PreparingForPrediction method of the Preprocessor class
+2022-05-19/16:48:41		Entered the predictingSingleDate method of the Preprocessor class
+2022-05-19/16:57:35		Entered the readDataset method of the Preprocessor class
+2022-05-19/16:57:35		Reading data is a success
+2022-05-19/16:57:35		Entered the readDataset method of the Preprocessor class
+2022-05-19/16:57:35		Reading data is a success
+2022-05-19/16:57:35		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/16:57:35		Finding missing values is a success
+2022-05-19/16:57:35		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/16:57:35		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/16:57:35		Finding missing values is a success
+2022-05-19/16:57:35		There are no null values, thus filling missing values is a success
+2022-05-19/16:57:35		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/16:57:35		Finding outliers is a success
+2022-05-19/16:57:35		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/16:57:35		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/16:57:35		Finding outliers is a success
+2022-05-19/16:57:35		Saving the plot of target data after replacing outliers is a success
+2022-05-19/16:57:35		There are no outliers, thus replacing outliers is a success
+2022-05-19/16:57:35		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/16:57:35		Creating New features is a success
+2022-05-19/16:57:35		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/16:57:35		Creating New features is a success
+2022-05-19/16:57:35		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/16:57:35		Entered the trainModel method of the Preprocessor class
+2022-05-19/16:57:36		Training different models is a success
+2022-05-19/16:57:37		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/16:57:37		Saving the best model
+2022-05-19/16:57:37		Entered the predictingTestData method of the Preprocessor class
+2022-05-19/17:11:14		Entered the readDataset method of the Preprocessor class
+2022-05-19/17:11:14		Reading data is a success
+2022-05-19/17:11:14		Entered the readDataset method of the Preprocessor class
+2022-05-19/17:11:14		Reading data is a success
+2022-05-19/17:11:14		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/17:11:14		Finding missing values is a success
+2022-05-19/17:11:14		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/17:11:14		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/17:11:14		Finding missing values is a success
+2022-05-19/17:11:14		There are no null values, thus filling missing values is a success
+2022-05-19/17:11:14		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/17:11:14		Finding outliers is a success
+2022-05-19/17:11:14		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/17:11:14		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/17:11:14		Finding outliers is a success
+2022-05-19/17:11:14		Saving the plot of target data after replacing outliers is a success
+2022-05-19/17:11:14		There are no outliers, thus replacing outliers is a success
+2022-05-19/17:11:14		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/17:11:14		Creating New features is a success
+2022-05-19/17:11:14		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/17:11:14		Creating New features is a success
+2022-05-19/17:11:14		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/17:11:14		Entered the trainModel method of the Preprocessor class
+2022-05-19/17:11:16		Training different models is a success
+2022-05-19/17:11:16		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/17:11:16		Saving the best model
+2022-05-19/17:11:16		Entered the predictingTestData method of the Preprocessor class
+2022-05-19/17:15:02		Entered the readDataset method of the Preprocessor class
+2022-05-19/17:15:02		Reading data is a success
+2022-05-19/17:15:02		Entered the readDataset method of the Preprocessor class
+2022-05-19/17:15:02		Reading data is a success
+2022-05-19/17:15:02		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/17:15:02		Finding missing values is a success
+2022-05-19/17:15:02		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/17:15:02		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/17:15:02		Finding missing values is a success
+2022-05-19/17:15:02		There are no null values, thus filling missing values is a success
+2022-05-19/17:15:02		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/17:15:02		Finding outliers is a success
+2022-05-19/17:15:02		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/17:15:02		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/17:15:02		Finding outliers is a success
+2022-05-19/17:15:02		Saving the plot of target data after replacing outliers is a success
+2022-05-19/17:15:02		There are no outliers, thus replacing outliers is a success
+2022-05-19/17:15:02		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/17:15:02		Creating New features is a success
+2022-05-19/17:15:02		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/17:15:02		Creating New features is a success
+2022-05-19/17:15:02		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/17:15:02		Entered the trainModel method of the Preprocessor class
+2022-05-19/17:15:03		Training different models is a success
+2022-05-19/17:15:04		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/17:15:04		Saving the best model
+2022-05-19/17:15:04		Entered the predictingTestData method of the Preprocessor class
+2022-05-19/17:18:33		Entered the readDataset method of the Preprocessor class
+2022-05-19/17:18:33		Reading data is a success
+2022-05-19/17:18:33		Entered the readDataset method of the Preprocessor class
+2022-05-19/17:18:33		Reading data is a success
+2022-05-19/17:18:33		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/17:18:33		Finding missing values is a success
+2022-05-19/17:18:33		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/17:18:33		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/17:18:33		Finding missing values is a success
+2022-05-19/17:18:33		There are no null values, thus filling missing values is a success
+2022-05-19/17:18:33		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/17:18:33		Finding outliers is a success
+2022-05-19/17:18:33		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/17:18:33		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/17:18:33		Finding outliers is a success
+2022-05-19/17:18:33		Saving the plot of target data after replacing outliers is a success
+2022-05-19/17:18:33		There are no outliers, thus replacing outliers is a success
+2022-05-19/17:18:33		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/17:18:33		Creating New features is a success
+2022-05-19/17:18:33		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/17:18:33		Creating New features is a success
+2022-05-19/17:18:33		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/17:18:33		Entered the trainModel method of the Preprocessor class
+2022-05-19/17:18:35		Training different models is a success
+2022-05-19/17:18:36		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/17:18:36		Saving the best model
+2022-05-19/17:18:36		Entered the predictingTestData method of the Preprocessor class
+2022-05-19/17:26:17		Entered the readDataset method of the Preprocessor class
+2022-05-19/17:26:17		Reading data is a success
+2022-05-19/17:26:18		Entered the readDataset method of the Preprocessor class
+2022-05-19/17:26:18		Reading data is a success
+2022-05-19/17:26:18		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/17:26:18		Finding missing values is a success
+2022-05-19/17:26:18		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/17:26:18		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/17:26:18		Finding missing values is a success
+2022-05-19/17:26:18		There are no null values, thus filling missing values is a success
+2022-05-19/17:26:18		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/17:26:18		Finding outliers is a success
+2022-05-19/17:26:18		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/17:26:18		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/17:26:18		Finding outliers is a success
+2022-05-19/17:26:18		Saving the plot of target data after replacing outliers is a success
+2022-05-19/17:26:18		There are no outliers, thus replacing outliers is a success
+2022-05-19/17:26:18		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/17:26:18		Creating New features is a success
+2022-05-19/17:26:18		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/17:26:18		Creating New features is a success
+2022-05-19/17:26:18		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/17:26:18		Entered the trainModel method of the Preprocessor class
+2022-05-19/17:26:19		Training different models is a success
+2022-05-19/17:26:20		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/17:26:20		Saving the best model
+2022-05-19/17:26:20		Entered the predictingTestData method of the Preprocessor class
+2022-05-19/17:27:57		Entered the readDataset method of the Preprocessor class
+2022-05-19/17:27:57		Reading data is a success
+2022-05-19/17:27:57		Entered the readDataset method of the Preprocessor class
+2022-05-19/17:27:57		Reading data is a success
+2022-05-19/17:27:57		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/17:27:57		Finding missing values is a success
+2022-05-19/17:27:57		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/17:27:57		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/17:27:57		Finding missing values is a success
+2022-05-19/17:27:57		There are no null values, thus filling missing values is a success
+2022-05-19/17:27:57		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/17:27:57		Finding outliers is a success
+2022-05-19/17:27:57		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/17:27:57		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/17:27:57		Finding outliers is a success
+2022-05-19/17:27:57		Saving the plot of target data after replacing outliers is a success
+2022-05-19/17:27:57		There are no outliers, thus replacing outliers is a success
+2022-05-19/17:27:57		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/17:27:57		Creating New features is a success
+2022-05-19/17:27:57		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/17:27:57		Creating New features is a success
+2022-05-19/17:27:57		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/17:27:57		Entered the trainModel method of the Preprocessor class
+2022-05-19/17:27:59		Training different models is a success
+2022-05-19/17:27:59		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/17:27:59		Saving the best model
+2022-05-19/17:27:59		Entered the predictingTestData method of the Preprocessor class
+2022-05-19/17:29:31		Entered the readDataset method of the Preprocessor class
+2022-05-19/17:29:31		Reading data is a success
+2022-05-19/17:29:31		Entered the readDataset method of the Preprocessor class
+2022-05-19/17:29:31		Reading data is a success
+2022-05-19/17:29:31		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/17:29:31		Finding missing values is a success
+2022-05-19/17:29:31		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/17:29:31		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/17:29:31		Finding missing values is a success
+2022-05-19/17:29:31		There are no null values, thus filling missing values is a success
+2022-05-19/17:29:31		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/17:29:31		Finding outliers is a success
+2022-05-19/17:29:31		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/17:29:31		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/17:29:31		Finding outliers is a success
+2022-05-19/17:29:31		Saving the plot of target data after replacing outliers is a success
+2022-05-19/17:29:31		There are no outliers, thus replacing outliers is a success
+2022-05-19/17:29:31		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/17:29:31		Creating New features is a success
+2022-05-19/17:29:31		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/17:29:31		Creating New features is a success
+2022-05-19/17:29:31		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/17:29:31		Entered the trainModel method of the Preprocessor class
+2022-05-19/17:29:33		Training different models is a success
+2022-05-19/17:29:33		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/17:29:33		Saving the best model
+2022-05-19/17:29:33		Entered the predictingTestData method of the Preprocessor class
+2022-05-19/17:41:42		Entered the readDataset method of the Preprocessor class
+2022-05-19/17:41:42		Reading data is a success
+2022-05-19/17:41:42		Entered the readDataset method of the Preprocessor class
+2022-05-19/17:41:42		Reading data is a success
+2022-05-19/17:41:42		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/17:41:42		Finding missing values is a success
+2022-05-19/17:41:42		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/17:41:42		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/17:41:42		Finding missing values is a success
+2022-05-19/17:41:42		There are no null values, thus filling missing values is a success
+2022-05-19/17:41:42		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/17:41:42		Finding outliers is a success
+2022-05-19/17:41:42		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/17:41:42		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/17:41:42		Finding outliers is a success
+2022-05-19/17:41:42		Saving the plot of target data after replacing outliers is a success
+2022-05-19/17:41:42		There are no outliers, thus replacing outliers is a success
+2022-05-19/17:41:42		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/17:41:42		Creating New features is a success
+2022-05-19/17:41:42		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/17:41:42		Creating New features is a success
+2022-05-19/17:41:42		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/17:41:42		Entered the trainModel method of the Preprocessor class
+2022-05-19/17:41:43		Training different models is a success
+2022-05-19/17:41:44		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/17:41:44		Saving the best model
+2022-05-19/17:41:44		Entered the predictingTestData method of the Preprocessor class
+2022-05-19/17:51:39		Entered the readDataset method of the Preprocessor class
+2022-05-19/17:51:39		Reading data is a success
+2022-05-19/17:51:40		Entered the readDataset method of the Preprocessor class
+2022-05-19/17:51:40		Reading data is a success
+2022-05-19/17:51:40		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/17:51:40		Finding missing values is a success
+2022-05-19/17:51:40		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/17:51:40		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/17:51:40		Finding missing values is a success
+2022-05-19/17:51:40		There are no null values, thus filling missing values is a success
+2022-05-19/17:51:40		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/17:51:40		Finding outliers is a success
+2022-05-19/17:51:40		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/17:51:40		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/17:51:40		Finding outliers is a success
+2022-05-19/17:51:40		Saving the plot of target data after replacing outliers is a success
+2022-05-19/17:51:40		There are no outliers, thus replacing outliers is a success
+2022-05-19/17:51:40		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/17:51:40		Creating New features is a success
+2022-05-19/17:51:40		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/17:51:40		Creating New features is a success
+2022-05-19/17:51:40		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/17:51:40		Entered the trainModel method of the Preprocessor class
+2022-05-19/17:51:41		Training different models is a success
+2022-05-19/17:51:42		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/17:51:42		Saving the best model
+2022-05-19/17:51:42		Entered the predictingTestData method of the Preprocessor class
+2022-05-19/17:53:51		Entered the readDataset method of the Preprocessor class
+2022-05-19/17:53:51		Reading data is a success
+2022-05-19/17:53:51		Entered the readDataset method of the Preprocessor class
+2022-05-19/17:53:51		Reading data is a success
+2022-05-19/17:53:51		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/17:53:51		Finding missing values is a success
+2022-05-19/17:53:51		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/17:53:51		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/17:53:51		Finding missing values is a success
+2022-05-19/17:53:51		There are no null values, thus filling missing values is a success
+2022-05-19/17:53:51		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/17:53:51		Finding outliers is a success
+2022-05-19/17:53:51		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/17:53:51		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/17:53:51		Finding outliers is a success
+2022-05-19/17:53:51		Saving the plot of target data after replacing outliers is a success
+2022-05-19/17:53:51		There are no outliers, thus replacing outliers is a success
+2022-05-19/17:53:51		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/17:53:52		Creating New features is a success
+2022-05-19/17:53:52		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/17:53:52		Creating New features is a success
+2022-05-19/17:53:52		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/17:53:52		Entered the trainModel method of the Preprocessor class
+2022-05-19/17:53:53		Training different models is a success
+2022-05-19/17:53:53		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/17:53:53		Saving the best model
+2022-05-19/17:53:53		Entered the predictingTestData method of the Preprocessor class
+2022-05-19/17:56:35		Entered the readDataset method of the Preprocessor class
+2022-05-19/17:56:35		Reading data is a success
+2022-05-19/17:56:35		Entered the readDataset method of the Preprocessor class
+2022-05-19/17:56:35		Reading data is a success
+2022-05-19/17:56:35		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/17:56:35		Finding missing values is a success
+2022-05-19/17:56:35		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/17:56:35		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/17:56:35		Finding missing values is a success
+2022-05-19/17:56:35		There are no null values, thus filling missing values is a success
+2022-05-19/17:56:35		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/17:56:35		Finding outliers is a success
+2022-05-19/17:56:35		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/17:56:35		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/17:56:35		Finding outliers is a success
+2022-05-19/17:56:35		Saving the plot of target data after replacing outliers is a success
+2022-05-19/17:56:35		There are no outliers, thus replacing outliers is a success
+2022-05-19/17:56:35		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/17:56:35		Creating New features is a success
+2022-05-19/17:56:35		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/17:56:35		Creating New features is a success
+2022-05-19/17:56:35		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/17:56:35		Entered the trainModel method of the Preprocessor class
+2022-05-19/17:56:37		Training different models is a success
+2022-05-19/17:56:37		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/17:56:37		Saving the best model
+2022-05-19/17:56:37		Entered the predictingTestData method of the Preprocessor class
+2022-05-19/17:58:19		Entered the readDataset method of the Preprocessor class
+2022-05-19/17:58:19		Reading data is a success
+2022-05-19/17:58:20		Entered the readDataset method of the Preprocessor class
+2022-05-19/17:58:20		Reading data is a success
+2022-05-19/17:58:20		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/17:58:20		Finding missing values is a success
+2022-05-19/17:58:20		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/17:58:20		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/17:58:20		Finding missing values is a success
+2022-05-19/17:58:20		There are no null values, thus filling missing values is a success
+2022-05-19/17:58:20		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/17:58:20		Finding outliers is a success
+2022-05-19/17:58:20		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/17:58:20		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/17:58:20		Finding outliers is a success
+2022-05-19/17:58:20		Saving the plot of target data after replacing outliers is a success
+2022-05-19/17:58:20		There are no outliers, thus replacing outliers is a success
+2022-05-19/17:58:20		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/17:58:20		Creating New features is a success
+2022-05-19/17:58:20		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/17:58:20		Creating New features is a success
+2022-05-19/17:58:20		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/17:58:20		Entered the trainModel method of the Preprocessor class
+2022-05-19/17:58:21		Training different models is a success
+2022-05-19/17:58:21		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/17:58:22		Saving the best model
+2022-05-19/17:58:22		Entered the predictingTestData method of the Preprocessor class
+2022-05-19/18:02:31		Entered the readDataset method of the Preprocessor class
+2022-05-19/18:02:31		Reading data is a success
+2022-05-19/18:02:31		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/18:02:31		Finding missing values is a success
+2022-05-19/18:02:31		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/18:02:31		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/18:02:31		Finding missing values is a success
+2022-05-19/18:02:31		There are no null values, thus filling missing values is a success
+2022-05-19/18:02:31		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/18:02:31		Finding outliers is a success
+2022-05-19/18:02:31		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/18:02:31		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/18:02:31		Finding outliers is a success
+2022-05-19/18:02:31		Saving the plot of target data after replacing outliers is a success
+2022-05-19/18:02:31		There are no outliers, thus replacing outliers is a success
+2022-05-19/18:02:32		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/18:02:32		Creating New features is a success
+2022-05-19/18:02:32		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/18:02:32		Entered the trainModel method of the Preprocessor class
+2022-05-19/18:02:33		Training different models is a success
+2022-05-19/18:02:33		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/18:02:33		Saving the best model
+2022-05-19/18:02:33		Entered the PreparingForPrediction method of the Preprocessor class
+2022-05-19/18:02:33		Entered the predictingSingleDate method of the Preprocessor class
+2022-05-19/18:03:27		Entered the readDataset method of the Preprocessor class
+2022-05-19/18:03:27		Reading data is a success
+2022-05-19/18:03:27		Entered the readDataset method of the Preprocessor class
+2022-05-19/18:03:27		Reading data is a success
+2022-05-19/18:03:27		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/18:03:27		Finding missing values is a success
+2022-05-19/18:03:27		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/18:03:27		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/18:03:27		Finding missing values is a success
+2022-05-19/18:03:27		There are no null values, thus filling missing values is a success
+2022-05-19/18:03:27		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/18:03:27		Finding outliers is a success
+2022-05-19/18:03:27		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/18:03:27		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/18:03:27		Finding outliers is a success
+2022-05-19/18:03:27		Saving the plot of target data after replacing outliers is a success
+2022-05-19/18:03:27		There are no outliers, thus replacing outliers is a success
+2022-05-19/18:03:27		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/18:03:27		Creating New features is a success
+2022-05-19/18:03:27		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/18:03:27		Creating New features is a success
+2022-05-19/18:03:27		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/18:03:27		Entered the trainModel method of the Preprocessor class
+2022-05-19/18:03:28		Training different models is a success
+2022-05-19/18:03:29		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/18:03:29		Saving the best model
+2022-05-19/18:03:29		Entered the predictingTestData method of the Preprocessor class
+2022-05-19/18:04:22		Entered the readDataset method of the Preprocessor class
+2022-05-19/18:04:22		Reading data is a success
+2022-05-19/18:04:22		Entered the readDataset method of the Preprocessor class
+2022-05-19/18:04:22		Reading data is a success
+2022-05-19/18:04:22		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/18:04:22		Finding missing values is a success
+2022-05-19/18:04:22		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/18:04:22		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/18:04:22		Finding missing values is a success
+2022-05-19/18:04:22		There are no null values, thus filling missing values is a success
+2022-05-19/18:04:22		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/18:04:22		Finding outliers is a success
+2022-05-19/18:04:22		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/18:04:22		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/18:04:22		Finding outliers is a success
+2022-05-19/18:04:22		Saving the plot of target data after replacing outliers is a success
+2022-05-19/18:04:22		There are no outliers, thus replacing outliers is a success
+2022-05-19/18:04:22		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/18:04:22		Creating New features is a success
+2022-05-19/18:04:22		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/18:04:22		Creating New features is a success
+2022-05-19/18:04:22		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/18:04:22		Entered the trainModel method of the Preprocessor class
+2022-05-19/18:04:24		Training different models is a success
+2022-05-19/18:04:24		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/18:04:24		Saving the best model
+2022-05-19/18:04:24		Entered the predictingTestData method of the Preprocessor class
+2022-05-19/18:09:09		Entered the readDataset method of the Preprocessor class
+2022-05-19/18:09:09		Reading data is a success
+2022-05-19/18:09:10		Entered the readDataset method of the Preprocessor class
+2022-05-19/18:09:10		Reading data is a success
+2022-05-19/18:09:10		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/18:09:10		Finding missing values is a success
+2022-05-19/18:09:10		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/18:09:10		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/18:09:10		Finding missing values is a success
+2022-05-19/18:09:10		There are no null values, thus filling missing values is a success
+2022-05-19/18:09:10		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/18:09:10		Finding outliers is a success
+2022-05-19/18:09:10		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/18:09:10		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/18:09:10		Finding outliers is a success
+2022-05-19/18:09:10		Saving the plot of target data after replacing outliers is a success
+2022-05-19/18:09:10		There are no outliers, thus replacing outliers is a success
+2022-05-19/18:09:10		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/18:09:10		Creating New features is a success
+2022-05-19/18:09:10		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/18:09:10		Creating New features is a success
+2022-05-19/18:09:10		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/18:09:10		Entered the trainModel method of the Preprocessor class
+2022-05-19/18:09:11		Training different models is a success
+2022-05-19/18:09:12		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/18:09:12		Saving the best model
+2022-05-19/18:09:12		Entered the predictingTestData method of the Preprocessor class
+2022-05-19/18:10:08		Entered the readDataset method of the Preprocessor class
+2022-05-19/18:10:08		Reading data is a success
+2022-05-19/18:10:08		Entered the readDataset method of the Preprocessor class
+2022-05-19/18:10:08		Reading data is a success
+2022-05-19/18:10:08		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/18:10:08		Finding missing values is a success
+2022-05-19/18:10:08		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/18:10:08		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/18:10:08		Finding missing values is a success
+2022-05-19/18:10:08		There are no null values, thus filling missing values is a success
+2022-05-19/18:10:08		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/18:10:08		Finding outliers is a success
+2022-05-19/18:10:08		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/18:10:08		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/18:10:08		Finding outliers is a success
+2022-05-19/18:10:08		Saving the plot of target data after replacing outliers is a success
+2022-05-19/18:10:08		There are no outliers, thus replacing outliers is a success
+2022-05-19/18:10:09		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/18:10:09		Creating New features is a success
+2022-05-19/18:10:09		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/18:10:09		Creating New features is a success
+2022-05-19/18:10:09		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/18:10:09		Entered the trainModel method of the Preprocessor class
+2022-05-19/18:10:10		Training different models is a success
+2022-05-19/18:10:10		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/18:10:10		Saving the best model
+2022-05-19/18:10:10		Entered the predictingTestData method of the Preprocessor class
+2022-05-19/19:48:44		Entered the readDataset method of the Preprocessor class
+2022-05-19/19:48:44		Reading data is a success
+2022-05-19/19:48:44		Entered the readDataset method of the Preprocessor class
+2022-05-19/19:48:44		Reading data is a success
+2022-05-19/19:48:44		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/19:48:44		Finding missing values is a success
+2022-05-19/19:48:44		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/19:48:44		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/19:48:44		Finding missing values is a success
+2022-05-19/19:48:44		There are no null values, thus filling missing values is a success
+2022-05-19/19:48:44		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/19:48:44		Finding outliers is a success
+2022-05-19/19:48:44		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/19:48:44		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/19:48:44		Finding outliers is a success
+2022-05-19/19:48:44		Saving the plot of target data after replacing outliers is a success
+2022-05-19/19:48:44		There are no outliers, thus replacing outliers is a success
+2022-05-19/19:48:44		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/19:48:44		Creating New features is a success
+2022-05-19/19:48:44		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/19:48:44		Creating New features is a success
+2022-05-19/19:48:44		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/19:48:44		Entered the trainModel method of the Preprocessor class
+2022-05-19/19:48:46		Training different models is a success
+2022-05-19/19:48:46		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/19:48:46		Saving the best model
+2022-05-19/19:48:46		Entered the predictingTestData method of the Preprocessor class
+2022-05-19/19:49:06		Entered the readDataset method of the Preprocessor class
+2022-05-19/19:49:06		Reading data is a success
+2022-05-19/19:49:07		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/19:49:07		Finding missing values is a success
+2022-05-19/19:49:07		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/19:49:07		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/19:49:07		Finding missing values is a success
+2022-05-19/19:49:07		There are no null values, thus filling missing values is a success
+2022-05-19/19:49:07		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/19:49:07		Finding outliers is a success
+2022-05-19/19:49:07		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/19:49:07		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/19:49:07		Finding outliers is a success
+2022-05-19/19:49:07		Saving the plot of target data after replacing outliers is a success
+2022-05-19/19:49:07		There are no outliers, thus replacing outliers is a success
+2022-05-19/19:49:07		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/19:49:07		Creating New features is a success
+2022-05-19/19:49:07		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/19:49:07		Entered the trainModel method of the Preprocessor class
+2022-05-19/19:49:10		Training different models is a success
+2022-05-19/19:49:10		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/19:49:11		Saving the best model
+2022-05-19/19:49:11		Entered the PreparingForPrediction method of the Preprocessor class
+2022-05-19/19:49:11		Entered the predictingSingleDate method of the Preprocessor class
+2022-05-19/20:13:40		Entered the readDataset method of the Preprocessor class
+2022-05-19/20:13:40		Reading data is a success
+2022-05-19/20:13:41		Entered the readDataset method of the Preprocessor class
+2022-05-19/20:13:41		Reading data is a success
+2022-05-19/20:13:41		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/20:13:41		Finding missing values is a success
+2022-05-19/20:13:41		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/20:13:41		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/20:13:41		Finding missing values is a success
+2022-05-19/20:13:41		There are no null values, thus filling missing values is a success
+2022-05-19/20:13:41		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/20:13:41		Finding outliers is a success
+2022-05-19/20:13:41		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/20:13:41		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/20:13:41		Finding outliers is a success
+2022-05-19/20:13:41		Saving the plot of target data after replacing outliers is a success
+2022-05-19/20:13:41		There are no outliers, thus replacing outliers is a success
+2022-05-19/20:13:41		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/20:13:41		Creating New features is a success
+2022-05-19/20:13:41		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/20:13:41		Creating New features is a success
+2022-05-19/20:13:41		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/20:13:41		Entered the trainModel method of the Preprocessor class
+2022-05-19/20:13:42		Training different models is a success
+2022-05-19/20:13:43		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/20:13:43		Saving the best model
+2022-05-19/20:13:43		Entered the predictingTestData method of the Preprocessor class
+2022-05-19/20:15:21		Entered the readDataset method of the Preprocessor class
+2022-05-19/20:15:21		Reading data is a success
+2022-05-19/20:15:22		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/20:15:22		Finding missing values is a success
+2022-05-19/20:15:22		Entered the fillMissingValues method of the Preprocessor class
+2022-05-19/20:15:22		Entered the checkNullvalues method of the Preprocessor class
+2022-05-19/20:15:22		Finding missing values is a success
+2022-05-19/20:15:22		There are no null values, thus filling missing values is a success
+2022-05-19/20:15:22		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/20:15:22		Finding outliers is a success
+2022-05-19/20:15:22		Entered the replacingOutliers method of the Preprocessor class
+2022-05-19/20:15:22		Entered the checkOutliers method of the Preprocessor class
+2022-05-19/20:15:22		Finding outliers is a success
+2022-05-19/20:15:22		Saving the plot of target data after replacing outliers is a success
+2022-05-19/20:15:22		There are no outliers, thus replacing outliers is a success
+2022-05-19/20:15:22		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-19/20:15:22		Creating New features is a success
+2022-05-19/20:15:22		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-19/20:15:22		Entered the trainModel method of the Preprocessor class
+2022-05-19/20:15:24		Training different models is a success
+2022-05-19/20:15:25		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-19/20:15:25		Saving the best model
+2022-05-19/20:15:25		Entered the PreparingForPrediction method of the Preprocessor class
+2022-05-19/20:15:25		Entered the predictingSingleDate method of the Preprocessor class
