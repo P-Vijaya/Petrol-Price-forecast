@@ -2,7 +2,7 @@ from flask import Flask,render_template,request
 from flask_cors import cross_origin
 from Preprocessing import Preprocessor
 import matplotlib.pyplot as plt
-
+import os
 
 app = Flask(__name__)
 
@@ -34,21 +34,34 @@ def testForecast():
         ## removing multicollinear features in test data
         test = test.drop(['dayofyear', 'weekofyear'], axis=1)
         preprocessorobj.trainModel(train)
-        prediction_result = preprocessorobj.predictingTestData(test)
+        prediction_result = preprocessorobj.predictingTestData(data=test,filename='test_data.csv')
         result = prediction_result
-        return render_template('results.html', result=result)
+        print("***********************")
+        print(type(result))
+        print(result)
+        print("***********FOR LOOP************")
+        date = result['Date']
+        price = result['Prediction']
+        results = []
+        for i in range(len(date)):
+            mydict = {'Date': date[i], 'Price': price[i]}
+            results.append(mydict)
+        print("*************END LOOP**********")
+        return render_template('results.html', results=results)
     except Exception as e:
         raise Exception(f"(app.py) - Something went wrong"+str(e))
 
 
 @app.route("/single",methods=['POST'])
 def singleForecast():
-    date = request.form['content']
+    file = request.files['Filename']
+    file.save(os.path.join(r'C:\Users\VIMALA P T\OneDrive\Documents\Python anaconda\Ineuron\projects\Ineuron Internship\Petrol price forecasting\Petrol Price Forecasting\Testing_file',file.filename))
     try:
         preprocessorobj = Preprocessor()
         train = preprocessorobj.readDataset(path='Training_file/train_data.csv')
         fig1 = train['Petrol (USD)'].plot(figsize=(25, 8))
         plt.savefig('Plots/fig1.png')
+        test = preprocessorobj.readDataset(path='Testing_file/{}'.format(file.filename))
         null_present = preprocessorobj.checkNullvalues(train)
         if null_present:
             train = preprocessorobj.fillMissingValues(train)
@@ -58,12 +71,22 @@ def singleForecast():
         fig2 = train['Petrol (USD)'].plot(figsize=(25, 8))
         plt.savefig('Plots/fig2.png')
         train = preprocessorobj.creatingNewFeatures(train)
+        test = preprocessorobj.creatingNewFeatures(test)
         train = preprocessorobj.removeCorrFeatures(train)
+        test = test.drop(['Prediction','dayofyear', 'weekofyear'], axis=1)
         preprocessorobj.trainModel(train)
-        test = preprocessorobj.PreparingForPrediction(date)
-        prediction_result = preprocessorobj.predictingSingleDate(test)
+        #test = preprocessorobj.PreparingForPrediction(date)
+        prediction_result = preprocessorobj.predictingTestData(data=test,filename=file.filename)
         result = prediction_result
-        return render_template('results.html', result=result)
+        print("***********FOR LOOP************")
+        date = result['Date']
+        price = result['Prediction']
+        results = []
+        for i in range(len(date)):
+            mydict = {'Date': date[i], 'Price': price[i]}
+            results.append(mydict)
+        print("*************END LOOP**********")
+        return render_template('results.html', results=results)
     except Exception as e:
         raise Exception(f"(app.py) - Something went wrong"+str(e))
 

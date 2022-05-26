@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split,GridSearchCV,RandomizedSearchCV
 from sklearn.linear_model import LinearRegression,Ridge,Lasso
 from sklearn.svm import SVR
@@ -28,11 +27,7 @@ class Preprocessor:
         self.logging.log(self.file_object, 'Entered the readDataset method of the Preprocessor class')
         try:
             data = pd.read_csv(path)
-            #fig1 = data[self.target].plot(figsize=(25,8))
-            #plt.close(fig1)
-            #plt.savefig('Plots/fig1.png')
             self.logging.log(self.file_object, 'Reading data is a success')
-            #self.logging.log(self.file_object, 'Saving the plot of target data in Plots folder is a success')
             return data
         except Exception as e:
             raise Exception(f"(readDataset): Something went wrong while reading the dataset\n"+str(e))
@@ -93,9 +88,13 @@ class Preprocessor:
         """
         self.logging.log(self.file_object, 'Entered the replacingOutliers method of the Preprocessor class')
         try:
-            val1 = (data[self.target][78]+data[self.target][80])/2
-            val2 = (data[self.target][141]+data[self.target][143])/2
-            train = data.replace(outliers,[val1,val2])
+            index = [data[self.target][data[self.target] == i].index.tolist() for i in outliers]
+            outlier_index = [j for i in index for j in i]
+            mean_values = [(data[self.target][i - 1] + data[self.target][i + 1]) / 2 for i in outlier_index]
+            train = data.replace(outliers, mean_values)
+            #val1 = (data[self.target][78]+data[self.target][80])/2
+            #val2 = (data[self.target][141]+data[self.target][143])/2
+            #train = data.replace(outliers,[val1,val2])
             outliers_present,outliers = self.checkOutliers(train)
             if outliers_present == False:
                 self.logging.log(self.file_object,'Saving the plot of target data after replacing outliers is a success')
@@ -185,7 +184,7 @@ class Preprocessor:
         except Exception as e:
             raise Exception(f"(trainModel)-Something went wrong while training the model\n" + str(e))
 
-    def predictingTestData(self,data):
+    def predictingTestData(self,data,filename):
         """
         This function helps to predict the future data
         """
@@ -194,7 +193,7 @@ class Preprocessor:
             with open("Best_model/modelForPrediction.sav",'rb') as f:
                 model = pickle.load(f)
             forecast = model.predict(data)
-            test = pd.read_csv('Testing_file/test_data.csv')
+            test = pd.read_csv('Testing_file/{}'.format(filename))
             test['Prediction'] = forecast
             test.to_csv('Forecast_result/forecast_result.csv', index=False)
             return test
@@ -236,6 +235,19 @@ class Preprocessor:
             return forecast
         except Exception as e:
             raise Exception(f"(predictingSingleDate)-Something went wrong while predicting petrol price for single date\n" + str(e))
+
+    def saveFile(self,data,path):
+        """
+        This function saves data to a csv file
+        """
+        try:
+            test_file = open(path,"w")
+            test_file.write(str(data))
+            test_file.close()
+            test = pd.read_csv(path)
+            return test
+        except Exception as e:
+            raise Exception(f"(saveFile) - Unable to save data to a csv file.\n" + str(e))
 
 
 

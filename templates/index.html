@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Wiki scrapping</title>
+    <title>Forecast</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -16,18 +16,17 @@
             <br>
             <h1 style="text-align: center">Petrol Price Forecasting</h1><br>
 
-             <div class="form">
-                <form action="/single" method="POST">
-                    <label><b> Petrol price for the date :</b></label> <input type="date" name="content" id="content" ><br><br>
-                    <input type="submit" value="Forecast for single year">
+             <br><br><div class="form">
+                <form action="/single" method="POST" enctype="multipart/form-data">
+                    <h4 style="text-align: left"> To Forecast Petrol price for customized date: </h4>
+                    <br><input type = "file" id="myFile" name="Filename">
+                    <input type="submit" value="Submit">
                 </form>
              </div>
 
-             <div class="form">
+             <br><br><div class="form">
                 <form action="/test" method="POST">
-                    <!--<label><b>wikishorts search :</b></label> <input type="text" name="content" id="content" ><br><br>-->
-                    <!--<label><b>If you have id with you enter here:</b></label> <input type="text" name="id" id="id" ><br><br>-->
-                    <!--<input type="submit" value="Forecast for single year">-->
+                    <h4 style="text-align: left"> To Forecast Petrol price for the given test file: </h4>
                     <br><input type="submit" value="Forecast for test data">
                 </form>
              </div>
