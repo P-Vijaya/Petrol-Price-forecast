@@ -157,9 +157,9 @@ class Preprocessor:
                 'Linear Regression(lasso)': Lasso(),
                 'Support vector Regression': SVR(),
                 'Random Forest Regressor': RandomForestRegressor(),
-                'XGBoost Regressor': XGBRegressor(),
-                'Catboost': CatBoostRegressor(verbose=0),
-                'Light Gradient boosting': LGBMRegressor()
+                #'XGBoost Regressor': XGBRegressor(),
+                #'Catboost': CatBoostRegressor(verbose=0),
+                #'Light Gradient boosting': LGBMRegressor()
             }
             for model_name, model in models.items():
                 model.fit(X_train, y_train)

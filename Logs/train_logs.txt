@@ -2942,3 +2942,30 @@
 2022-05-31/12:25:18		Selecting the best parameters using hyperparameter tuning is a success
 2022-05-31/12:25:18		Saving the best model
 2022-05-31/12:25:18		Entered the predictingTestData method of the Preprocessor class
+2022-05-31/13:32:40		Entered the readDataset method of the Preprocessor class
+2022-05-31/13:32:40		Reading data is a success
+2022-05-31/13:32:41		Entered the readDataset method of the Preprocessor class
+2022-05-31/13:32:41		Reading data is a success
+2022-05-31/13:32:41		Entered the checkNullvalues method of the Preprocessor class
+2022-05-31/13:32:41		Finding missing values is a success
+2022-05-31/13:32:41		Entered the fillMissingValues method of the Preprocessor class
+2022-05-31/13:32:41		Entered the checkNullvalues method of the Preprocessor class
+2022-05-31/13:32:41		Finding missing values is a success
+2022-05-31/13:32:41		There are no null values, thus filling missing values is a success
+2022-05-31/13:32:41		Entered the checkOutliers method of the Preprocessor class
+2022-05-31/13:32:41		Finding outliers is a success
+2022-05-31/13:32:41		Entered the replacingOutliers method of the Preprocessor class
+2022-05-31/13:32:41		Entered the checkOutliers method of the Preprocessor class
+2022-05-31/13:32:41		Finding outliers is a success
+2022-05-31/13:32:41		Saving the plot of target data after replacing outliers is a success
+2022-05-31/13:32:41		There are no outliers, thus replacing outliers is a success
+2022-05-31/13:32:42		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-31/13:32:42		Creating New features is a success
+2022-05-31/13:32:42		Entered the creatingNewFeatures method of the Preprocessor class
+2022-05-31/13:32:42		Creating New features is a success
+2022-05-31/13:32:42		Entered the removeCorrFeatures method of the Preprocessor class
+2022-05-31/13:32:42		Entered the trainModel method of the Preprocessor class
+2022-05-31/13:32:42		Training different models is a success
+2022-05-31/13:32:43		Selecting the best parameters using hyperparameter tuning is a success
+2022-05-31/13:32:43		Saving the best model
+2022-05-31/13:32:43		Entered the predictingTestData method of the Preprocessor class
