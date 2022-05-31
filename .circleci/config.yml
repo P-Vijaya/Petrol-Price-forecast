@@ -14,7 +14,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: cimg/python:3.6.2
+      - image: circleci/python:3.6.2
         auth:
           username: $DOCKERHUB_USER
           password: $DOCKER_HUB_PASSWORD_USER  # context / project UI env-var reference
