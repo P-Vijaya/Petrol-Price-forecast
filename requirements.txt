@@ -37,3 +37,4 @@ wincertstore
 xgboost
 zipp
 pytest
+docker
