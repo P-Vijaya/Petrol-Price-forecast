@@ -52,7 +52,7 @@ jobs:
             docker login -u $DOCKERHUB_USER -p $DOCKER_HUB_PASSWORD_USER docker.io
             docker push $DOCKERHUB_USER/$DOCKER_IMAGE_NAME:$TAG
   deploy:
-    executor: heroku/default
+    executor: machine
     steps:
       - checkout
       - run:
