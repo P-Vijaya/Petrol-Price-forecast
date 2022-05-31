@@ -3,6 +3,7 @@ from flask_cors import cross_origin
 from Preprocessing import Preprocessor
 import matplotlib.pyplot as plt
 import os
+from wsgiref import simple_server
 
 app = Flask(__name__)
 
@@ -90,10 +91,5 @@ def singleForecast():
     except Exception as e:
         raise Exception(f"(app.py) - Something went wrong"+str(e))
 
-port = int(os.getenv("PORT",5000))
-if __name__ == "__main__":
-    host = '0.0.0.0'
-    #port = 5000
-    httpd = simple_server.make_server(host, port, app)
-    # print("Serving on %s %d" % (host, port))
-    httpd.serve_forever()
+if __name__ == '__main__':
+    app.run(port=9000,debug=True)
