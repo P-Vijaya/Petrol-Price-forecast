@@ -56,7 +56,7 @@ def testForecast():
 @app.route("/single",methods=['POST'])
 def singleForecast():
     file = request.files['Filename']
-    file.save(os.path.join(r'C:\Users\VIMALA P T\OneDrive\Documents\Python anaconda\Ineuron\projects\Ineuron Internship\Petrol price forecasting\Petrol Price Forecasting\Testing_file',file.filename))
+    file.save(os.path.join('Testing_file', file.filename))
     try:
         preprocessorobj = Preprocessor()
         train = preprocessorobj.readDataset(path='Training_file/train_data.csv')
