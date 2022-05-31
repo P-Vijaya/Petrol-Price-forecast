@@ -52,6 +52,11 @@ jobs:
             docker login -u $DOCKERHUB_USER -p $DOCKER_HUB_PASSWORD_USER docker.io
             docker push $DOCKERHUB_USER/$DOCKER_IMAGE_NAME:$TAG
   deploy:
+    docker:
+      -image: cimg/python:3.6.2
+        auth:
+          username: $DOCKERHUB_USER
+          password: $DOCKER_HUB_PASSWORD_USER  # context / project UI env-var reference
     steps:
       - checkout
       - run:
