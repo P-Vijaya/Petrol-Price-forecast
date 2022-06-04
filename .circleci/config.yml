@@ -10,9 +10,12 @@ workflows:
             branches:
               only: main
 
-version: 2
+version: 2.1
+orbs:
+  heroku: circleci/heroku@1.0.1
 jobs:
   build:
+    executor: heroku/default
     docker:
       - image: circleci/python:3.6.2
         auth:
