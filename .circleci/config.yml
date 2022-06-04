@@ -26,6 +26,8 @@ jobs:
       - run:
           name: Install Python deps in a venv
           command: |
+            echo 'export TAG=0.1.${CIRCLE_BUILD_NUM}' >> $BASH_ENV
+            echo 'export IMAGE_NAME=${DOCKER_IMAGE_NAME}' >> $BASH_ENV
             python3 -m venv venv
             . venv/bin/activate
             pip install --upgrade pip
@@ -39,7 +41,7 @@ jobs:
       - run:
           name: Build and push Docker image
           command: |
-            docker build $DOCKERHUB_USER/$DOCKER_IMAGE_NAME:$TAG .
+            docker build -t $DOCKERHUB_USER/$DOCKER_IMAGE_NAME:$TAG .
             docker login $DOCKERHUB_USER -p $DOCKER_HUB_PASSWORD_USER docker.io
             docker push $DOCKERHUB_USER/$DOCKER_IMAGE_NAME:$TAG
   deploy:
