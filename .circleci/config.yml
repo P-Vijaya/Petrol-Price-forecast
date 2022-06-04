@@ -45,10 +45,20 @@ jobs:
             docker login -u $DOCKERHUB_USER -p $DOCKER_HUB_PASSWORD_USER docker.io
             docker push $DOCKERHUB_USER/$DOCKER_IMAGE_NAME:$TAG
   deploy:
-    executor: machine
+    executor: heroku/default
     steps:
       - checkout
       - run:
-          name: Deploy Master to Heroku
+          name: Storing previous commit
           command: |
-            git push https://heroku:$HEROKU_API_KEY@git.heroku.com/$HEROKU_APP_NAME.git master
+            git rev-parse HEAD > ./commit.txt
+      - heroku/install
+      - setup_remote_docker:
+          version: 18.06.0-ce
+      - run:
+          name: Pushing to heroku registry
+          command: |
+            heroku container:login
+            #heroku ps:scale web=1 -a $HEROKU_APP_NAME
+            heroku container:push web -a $HEROKU_APP_NAME
+            heroku container:release web -a $HEROKU_APP_NAME
