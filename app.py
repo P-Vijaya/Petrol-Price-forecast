@@ -3,7 +3,7 @@ from flask_cors import cross_origin
 from Preprocessing import Preprocessor
 import matplotlib.pyplot as plt
 import os
-from wsgiref import simple_server
+import numpy as np
 
 app = Flask(__name__)
 
@@ -42,7 +42,7 @@ def testForecast():
         print(result)
         print("***********FOR LOOP************")
         date = result['Date']
-        price = result['Prediction']
+        price = np.round(result['Prediction'],3)
         results = []
         for i in range(len(date)):
             mydict = {'Date': date[i], 'Price': price[i]}
@@ -81,7 +81,7 @@ def singleForecast():
         result = prediction_result
         print("***********FOR LOOP************")
         date = result['Date']
-        price = result['Prediction']
+        price = np.round(result['Prediction'],3)
         results = []
         for i in range(len(date)):
             mydict = {'Date': date[i], 'Price': price[i]}
